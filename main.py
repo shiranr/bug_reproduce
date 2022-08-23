@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    # THIS IS A SECRET: 'mongodb://myDBReader:D1fficultP%40ssw0rd@mongodb0.example.com:27017/?authSource=admin'
+    # THIS IS A SECRET: 'mongodb://myDBReader:Password@mongodb0.example.com:27017/?authSource=admin'
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
